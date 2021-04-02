@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nabil/CLionProjects/Embedded_Systems/embedded_c_unit2/assignment1.c
+stdio.h
+-
+
+/home/nabil/CLionProjects/Embedded_Systems/embedded_c_unit2/assignment1.h
+
+/home/nabil/CLionProjects/Embedded_Systems/embedded_c_unit2/assignment2.c
+stdio.h
+-
+
+/home/nabil/CLionProjects/Embedded_Systems/embedded_c_unit2/assignment2.h
+
+/home/nabil/CLionProjects/Embedded_Systems/embedded_c_unit2/main.c
+stdio.h
+-
+assignment1.h
+/home/nabil/CLionProjects/Embedded_Systems/embedded_c_unit2/assignment1.h
+assignment2.h
+/home/nabil/CLionProjects/Embedded_Systems/embedded_c_unit2/assignment2.h
+

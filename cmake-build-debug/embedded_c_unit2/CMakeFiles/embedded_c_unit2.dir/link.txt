@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/embedded_c_unit2.dir/main.c.o CMakeFiles/embedded_c_unit2.dir/assignment1.c.o CMakeFiles/embedded_c_unit2.dir/assignment2.c.o  -o embedded_c_unit2 

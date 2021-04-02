@@ -1,0 +1,5 @@
+/home/nabil/CLionProjects/Embedded_Systems/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nabil/CLionProjects/Embedded_Systems/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nabil/CLionProjects/Embedded_Systems/cmake-build-debug/embedded_c_unit2/CMakeFiles/rebuild_cache.dir
+/home/nabil/CLionProjects/Embedded_Systems/cmake-build-debug/embedded_c_unit2/CMakeFiles/edit_cache.dir
+/home/nabil/CLionProjects/Embedded_Systems/cmake-build-debug/embedded_c_unit2/CMakeFiles/embedded_c_unit2.dir
